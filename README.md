@@ -1,2 +1,1 @@
-# app-ionic
-Ionic App
+# App
